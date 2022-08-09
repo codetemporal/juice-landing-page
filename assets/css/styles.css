@@ -182,16 +182,6 @@ ul {
   width: 250px;
 }
 
-.home__shape-background {
-  height: 100%;
-  left: 0;
-  mix-blend-mode: soft-light;
-  object-fit: cover;
-  position: absolute;
-  top: 0;
-  width: 100%;
-}
-
 .home__container {
   display: grid;
   height: 100vh;
